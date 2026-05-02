@@ -1,0 +1,38 @@
+[
+  {
+    "vendor_id": "VEND-101",
+    "vendor_name": "TechMove Solutions",
+    "country": "USA",
+    "currency": "USD"
+  },
+  {
+    "vendor_id": "VEND-102",
+    "vendor_name": "EuroPack Logistics",
+    "country": "Germany",
+    "currency": "EUR"
+  },
+  {
+    "vendor_id": "VEND-103",
+    "vendor_name": "Asian Freight Co.",
+    "country": "India",
+    "currency": "INR"
+  },
+  {
+    "vendor_id": "VEND-104",
+    "vendor_name": "Pacific Transport Ltd",
+    "country": "Australia",
+    "currency": "AUD"
+  },
+  {
+    "vendor_id": "VEND-105",
+    "vendor_name": "Maple Couriers",
+    "country": "Canada",
+    "currency": "CAD"
+  },
+  {
+    "vendor_id": "VEND-106",
+    "vendor_name": "Iberia Express S.L.",
+    "country": "Spain",
+    "currency": "EUR"
+  }
+]
